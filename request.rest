@@ -1,0 +1,12 @@
+###
+#GET http://localhost:5000/list_karyawan
+
+###
+
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+	"username": "admin1",
+	"password": "admin1"
+}
